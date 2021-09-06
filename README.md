@@ -1,6 +1,6 @@
 # Login Form
 
-Made with react.js and firebase.
+Made with [React](https://reactjs.org/) and [firebase](https://firebase.google.com/).
 
 ## Getting Started with Create React App
 
